@@ -1,3 +1,19 @@
+<img src="https://img.shields.io/badge/Status-Completed-brightgreen" alt="Project Status" align="right"/>
+
+# Clearworkflow001  
+**Health Data ML Portfolio: Data Cleaning to Clustering**
+
+A complete end-to-end data science project focused on analyzing health conditions in children under 18 using unsupervised learning (KMeans). This project showcases practical skills in data preprocessing, visualization, clustering, and interpretation with real-world healthcare data.
+
+---
+
+**Project Type:** Machine Learning Portfolio  
+**Tools Used:** `Python`, `Pandas`, `Matplotlib`, `Seaborn`, `Scikit-learn`, `Jupyter Notebook`  
+**ML Technique:** `KMeans Clustering`  
+**Dataset Domain:** Public Health  
+
+---
+
 # Clearworkflow001
 
 **Data Cleaning to Clustering – Health Data ML Portfolio**
